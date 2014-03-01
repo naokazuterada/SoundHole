@@ -1,0 +1,2 @@
+class OmniCallbacksController < ApplicationController
+end
